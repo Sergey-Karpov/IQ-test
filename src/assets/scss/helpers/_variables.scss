@@ -1,0 +1,29 @@
+//? Основные цвета
+$main: #181818;
+$white: #ffffff;
+$yellow: #ffc700;
+$light-yellow: #f6d971;
+$blue: #2950c2;
+$dark-blue: #1c2741;
+$gray: #dadada;
+$dark-gray: #8e8e8e;
+$green: #3bde7c;
+$red: #eb1b00;
+
+//? Z-index
+$header-z-index: 55;
+
+//? По умолчанию
+$base_fz: 14px; //? Размер шрифта по умолчанию 14px
+$base_ff: 'PT-Serif-regular', sans-serif; //? Шрифт по умолчанию
+$base_bg: $white; //? Цвет фона по умолчанию
+$base_color: $main; //? Цвет текста по умолчанию
+
+//? Переменные семейств шрифтов
+$ff_Pb: 'PT-Serif-bold', sans-serif;
+$ff_Pr: 'PT-Serif-regular', sans-serif;
+
+//? Толщина семейства шрифтов
+$r: 400; // Regular
+$m: 500; // Medium
+$b: 700; // Bold

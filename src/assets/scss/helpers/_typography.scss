@@ -1,0 +1,53 @@
+// *================================================================
+//? Шрифты и заголовки
+// *================================================================
+
+// PT-Serif Bold
+@mixin PTS-b30 {
+  font-family: $ff_Pb;
+  font-size: 30px;
+  line-height: 34.65px;
+}
+
+@mixin PTS-b16 {
+  font-family: $ff_Pb;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+// PT-Serif Regular
+@mixin PTS-r24 {
+  font-family: $ff_Pr;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+@mixin PTS-r20 {
+  font-family: $ff_Pr;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+@mixin PTS-r18 {
+  font-family: $ff_Pr;
+  font-size: 18px;
+  line-height: 23.85px;
+}
+
+@mixin PTS-r16 {
+  font-family: $ff_Pr;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+@mixin PTS-r14 {
+  font-family: $ff_Pr;
+  font-size: 14px;
+  line-height: 17.6px;
+}
+
+@mixin PTS-r8 {
+  font-family: $ff_Pr;
+  font-size: 8px;
+  line-height: 10.6px;
+}
